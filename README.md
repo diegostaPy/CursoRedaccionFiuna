@@ -1,4 +1,4 @@
-# CursoRedacIEEE
+# CursoFIUNA
 # ¡Bienvenido al repositorio del curso de Redacción Científica FIUNA!
 
 Este repositorio tiene como objetivo proporcionar a los estudiantes los recursos necesarios para aprender a redactar documentos científicos.
